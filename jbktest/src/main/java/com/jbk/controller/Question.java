@@ -6,13 +6,13 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+/*
 @Component
 @NoArgsConstructor
 @Getter
 @Setter
 @AllArgsConstructor
-
+*/
 public class Question {
 	String questionText;
 	String option1;
