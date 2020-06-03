@@ -22,7 +22,7 @@ public class Question {
 	String option5;
 	String correctOption;
 	String explanation;
-	
+	//as we used lombok we shouldn't be writing this...
 	
 	public Question() {
 		super();
